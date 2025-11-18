@@ -1,5 +1,8 @@
 # Small-Office-With-Four-Departments
-This project is included most of the CCNA Topics 
+This project is included most of the CCNA Topics
+
+Packet Tracer version has been used is 8.2.2.400
+
 This Small-Office-With-Four-Departments include :
 
 1- Desgined the diagram
